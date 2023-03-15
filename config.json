@@ -1,0 +1,6 @@
+{
+    "url": "https://api.binance.com/api/v3/depth",
+    "limit": 3,
+    "currency": "SOLUSDT",
+    "delay": 2
+}
